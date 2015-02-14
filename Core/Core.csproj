@@ -38,6 +38,7 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UrlParser.cs" />
     <Compile Include="HttpUtility.cs" />
     <Compile Include="QueryString.cs" />
     <Compile Include="UrlBuilder.cs" />

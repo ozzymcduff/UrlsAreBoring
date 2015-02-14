@@ -3,3 +3,5 @@
 Trying out some url building based on existing code from [stackoverflow answer](http://stackoverflow.com/questions/1759881/c-sharp-url-builder-class).
 
 It looks like there is a [fluent library already](https://github.com/tmenier/Flurl).
+
+Someone has done [extensions on top of uri](https://github.com/NaosFramework/Naos.FluentUri).
